@@ -1,0 +1,11 @@
+include search_bar/search_bar.min.js
+include search_bar/search_bar.min.js.map
+include search_bar/async-*.js
+include search_bar/async-*.js.map
+include search_bar/*-shared.js
+include search_bar/*-shared.js.map
+include search_bar/metadata.json
+include search_bar/package-info.json
+include README.md
+include LICENSE
+include package.json

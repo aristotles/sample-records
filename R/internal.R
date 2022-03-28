@@ -1,0 +1,27 @@
+.searchBar_js_metadata <- function() {
+deps_metadata <- list(`search_bar` = structure(list(name = "search_bar",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'async-SearchBar.js',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "searchBar",
+all_files = FALSE, async = TRUE), class = "html_dependency"),
+`search_bar` = structure(list(name = "search_bar",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'async-SearchBar.js.map',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "searchBar",
+all_files = FALSE, dynamic = TRUE), class = "html_dependency"),
+`search_bar` = structure(list(name = "search_bar",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'search_bar.min.js',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "searchBar",
+all_files = FALSE), class = "html_dependency"),
+`search_bar` = structure(list(name = "search_bar",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'search_bar.min.js.map',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "searchBar",
+all_files = FALSE, dynamic = TRUE), class = "html_dependency"))
+return(deps_metadata)
+}

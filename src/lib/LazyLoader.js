@@ -1,0 +1,1 @@
+export const SearchBar = React.lazy(() => import(/* webpackChunkName: "SearchBar" */ './fragments/SearchBar.react'));
