@@ -21,8 +21,6 @@ The project consists of four main files
 4. SearchBar.react.js: A React component that the user may interact with to query the DataTable.
 
 ## UX
-The Dash Layout consists of the following components:
-    -Title, Subtitle
     -Searchbar: user can enter and search a string of text to see where it appears in the database. This can sometimes take a while to update.
     -Mapbox Map: Starts with a zoomed out map of all accidents, when a user clicks on a row, it zooms in to the specific incident, can be hovered over to show data.
     -Datatable: Table showing all the data from the stored accidents.parquet to start, and will change based on the users searched term.
