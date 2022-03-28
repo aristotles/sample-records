@@ -1,6 +1,3 @@
-hosting
-button used
-
 # Kratsas Records
 An interview project built using Dash written in Python, Kratsas Records, takes the data inside accidents.parquet and displays it so the user may interact and understand it.
 
